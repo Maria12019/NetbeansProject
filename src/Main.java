@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        // 4 filas x 3 columnas - mayor y menor
+        // 4 filas x 3 columnas - mayor  y  menor
         Scanner sc = new Scanner(System.in);
         int[][] matriz = new int[4][3];
 
