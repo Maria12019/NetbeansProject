@@ -26,7 +26,7 @@ public class Main {
             System.out.println();
         }
 
-        // Buscar mayor y menor
+        // Buscar mayor y  menor
         int mayor = matriz[0][0];
         int menor = matriz[0][0];
         String posicionMayor = null;
